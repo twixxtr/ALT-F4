@@ -1,3 +1,10 @@
+Team Name: ALT F4
+
+Developed by:
+
+Harikrishna K Nair
+
+Anagha A
 # ALT+F4: AI-Powered Cybersecurity Intelligence Platform
 
 ALT+F4 is a production-grade, multi-dimensional cybersecurity suite designed to protect users from modern digital threats. Powered by Gemini AI, it provides intelligent detection, deep analysis, and actionable insights across phishing, system logs, and digital media.
